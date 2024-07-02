@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\curti\Documents\GitHub\EECS4422\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1564813958.index
+2364467052.index
+2668678152.index
+1485399466.index
