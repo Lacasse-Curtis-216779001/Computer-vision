@@ -1,0 +1,13 @@
+package appData;
+
+import javax.swing.*;
+
+class App {
+
+	private static void initWindow() {
+		JFrame window = new JFrame("Towel Tower Defense");
+		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		
+	}
+}

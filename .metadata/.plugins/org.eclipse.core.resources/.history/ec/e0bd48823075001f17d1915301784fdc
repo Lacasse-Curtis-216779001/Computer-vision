@@ -1,0 +1,7 @@
+package appData;
+
+import javax.swing.*;
+
+class App {
+
+}
